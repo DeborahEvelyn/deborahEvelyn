@@ -15,22 +15,22 @@
 
 📚 **Aprendendo as seguintes tecnologias:**
 
-*Front-end:*
+**Front-end:**
 
-*HTML5, CSS3, JAVASCRIPT, Bootstrap, Nodejs, TypeScript e Angular.*
+**HTML5, CSS3, JAVASCRIPT, Bootstrap, Nodejs, TypeScript e Angular.**
 
-*Back-end:*
+**Back-end:**
 
-*Java e Framework Spring.*
+**Java e Framework Spring.**
 
-*Banco de dados:*
+**Banco de dados:**
 
-*MySQL*
+**MySQL**
 
-*Metodologias ágeis:*
+**Metodologias ágeis:**
 
-*SCRUM*
-*KANBAN*
+**SCRUM**
+**KANBAN**
 
 
 
