@@ -9,7 +9,7 @@
 
 ## Olá Devs! 
 
-👩‍💻 *Sou apaixonada pela área de tecnologia e estou me preparando para ser mais uma excelente profissional.*
+👩‍💻 *Meu nome é Deborah, e eu tenho 27 anos e estou me aventurando no mundo da tecnologia para mudar o mundo um pouquinho a cada dia.*
 
 🎯 *Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.*
 
