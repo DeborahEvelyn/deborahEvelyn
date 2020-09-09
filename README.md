@@ -1,22 +1,39 @@
-**Deborah Evelyn Carlota**
 
-👩‍💻**Olá Devs! Sou apaixonada pela área de tecnologia e estou me preparando para ser mais uma excelente profissional.** 
 
-:sparkles: **Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.** 
+# Deborah Evelyn Carlota 👩‍💻
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IvanCarlota)](https://github.com/DeborahEvelyn)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-carlota/)](https://www.linkedin.com/in/deborah-evelyn-carlota-584366a1/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Ivan_Jr777)](https://t.me/@deborahevelynC)
+
+
+## Olá Devs! 
+
+Sou apaixonada pela área de tecnologia e estou me preparando para ser mais uma excelente profissional.
+
+✨ Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.
 
 A partir do curso de Desenvolvimento Web FullStack estou obtendo conhecimentos nas seguintes áreas:
 
 Front-end:
-- HTML5, CSS3, JAVASCRIPT, Bootstrap, Nodejs, TypeScript e Angular.
+
+HTML5, CSS3, JAVASCRIPT, Bootstrap, Nodejs, TypeScript e Angular.
 
 Back-end:
-- Java e Framework Spring.
+
+Java e Framework Spring.
 
 Banco de dados:
-- MySQL
+
+MySQL
 
 Metodologias ágeis:
-- SCRUM
-- KANBAN
 
-[![N|Solid](https://www.linkedin.com/in/deborah-evelyn-carlota-584366a1/)](https://nodesource.com/products/nsolid)
+SCRUM
+KANBAN
+
+
+
+# Outros dados:
+
+![here is my stats](https://github-readme-stats.vercel.app/api?username=DeborahEvelyn&show_icons=true&hide_border=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeborahEvelyn&layout=compact)](https://github.com/DeborahEvelyn/github-readme-stats)
