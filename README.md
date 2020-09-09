@@ -13,7 +13,7 @@
 
 🎯 *Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.*
 
-📚 *Aprendendo as seguintes tecnologias:*
+📚 ## *Aprendendo as seguintes tecnologias:*
 
 *Front-end:*
 
