@@ -9,11 +9,11 @@
 
 ## Olá Devs! 
 
-👩‍💻 *Meu nome é Deborah, tenho 27 anos e estou me aventurando no mundo da tecnologia para mudar o mundo um pouquinho a cada dia.*
+👩‍💻 **Meu nome é Deborah, tenho 27 anos e estou me aventurando no mundo da tecnologia para mudar o mundo um pouquinho a cada dia.*
 
-🎯 *Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.*
+🎯 **Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.*
 
-📚 *Aprendendo as seguintes tecnologias:*
+📚 **Aprendendo as seguintes tecnologias:*
 
 *Front-end:*
 
