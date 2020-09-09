@@ -19,4 +19,4 @@ Metodologias ágeis:
 - SCRUM
 - KANBAN
 
-[https://www.linkedin.com/in/deborah-evelyn-carlota-584366a1/](url)
+[![N|Solid](https://www.linkedin.com/in/deborah-evelyn-carlota-584366a1/)](https://nodesource.com/products/nsolid)
