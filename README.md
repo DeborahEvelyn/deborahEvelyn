@@ -1,5 +1,4 @@
-
-:computer: **Olá Devs! Sou apaixonada pela área de tecnologia e estou me preparando para ser mais uma excelente profissional.** 
+👩‍💻**Olá Devs! Sou apaixonada pela área de tecnologia e estou me preparando para ser mais uma excelente profissional.** 
 
 :sparkles: **Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.** 
 
