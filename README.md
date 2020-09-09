@@ -40,7 +40,7 @@
 <code><img width="50" height="50" src="https://i.imgur.com/RNP1M7t.jpg"></code>
 <code><img width="45" height="40" src="https://i.imgur.com/Nf9tdvp.jpg"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/4ukQmuf.jpgng"></code>
-<code><img width="35" height="35" src="https://i.imgur.com/uW8XlJV.png"></code
+<code><img width="35" height="35" src="https://i.imgur.com/uW8XlJV.png"></code>
 
 
 # Outros dados:
