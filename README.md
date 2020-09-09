@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**DeborahEvelyn/deborahEvelyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: **Sou apaixonada pela área de tecnologia e estou me preparando para ser mais uma excelente profissional.** 
 
-Here are some ideas to get you started:
+:sparkles: **Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A partir do curso de Desenvolvimento Web FullStack estou obtendo conhecimentos nas seguintes áreas:
+
+Front-end:
+- HTML5, CSS3, JAVASCRIPT, Bootstrap, Nodejs, TypeScript e Angular.
+
+Back-end:
+- Java e Framework Spring.
+
+Banco de dados:
+- MySQL
+
+Metodologias ágeis:
+- SCRUM
+- KANBAN
+
+[https://www.linkedin.com/in/deborah-evelyn-carlota-584366a1/](url)
