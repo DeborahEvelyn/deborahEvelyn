@@ -1,6 +1,6 @@
 
 
-# Deborah Evelyn Carlota 👩‍💻
+# Deborah Evelyn Carlota 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IvanCarlota)](https://github.com/DeborahEvelyn)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-carlota/)](https://www.linkedin.com/in/deborah-evelyn-carlota-584366a1/)
@@ -9,11 +9,11 @@
 
 ## Olá Devs! 
 
-*Sou apaixonada pela área de tecnologia e estou me preparando para ser mais uma excelente profissional.*
+👩‍💻 *Sou apaixonada pela área de tecnologia e estou me preparando para ser mais uma excelente profissional.*
 
-✨ *Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.*
+🎯 *Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.*
 
-*A partir do curso de Desenvolvimento Web Full Stack estou obtendo conhecimentos nas seguintes áreas:*
+📚 *Aprendendo as seguintes tecnologias:*
 
 *Front-end:*
 
