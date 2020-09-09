@@ -11,9 +11,9 @@
 
 Sou apaixonada pela área de tecnologia e estou me preparando para ser mais uma excelente profissional.
 
-✨ Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.
+✨ *Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.*
 
-A partir do curso de Desenvolvimento Web FullStack estou obtendo conhecimentos nas seguintes áreas:
+A partir do curso de Desenvolvimento Web Full Stack estou obtendo conhecimentos nas seguintes áreas:
 
 Front-end:
 
