@@ -40,8 +40,6 @@
 <code><img width="32" height="32" src="https://i.imgur.com/XUak5rQ.png"></code>
 <code><img width="50" height="50" src="https://i.imgur.com/RNP1M7t.jpg"></code>
 <code><img width="45" height="40" src="https://i.imgur.com/Nf9tdvp.jpg"></code>
-<code><img width="35" height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img width="35" height="35" src="https://i.imgur.com/9wklHL4.png"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/4ukQmuf.jpgng"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/uW8XlJV.png"></code>
 
