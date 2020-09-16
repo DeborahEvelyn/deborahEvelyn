@@ -30,6 +30,7 @@
 **Metodologias ágeis:**
 
 **SCRUM**
+
 **KANBAN**
 
 # Linguagens e ferramentas :octocat:
