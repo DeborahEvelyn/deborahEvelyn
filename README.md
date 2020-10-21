@@ -2,15 +2,10 @@
 
 # Deborah Evelyn Carlota 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IvanCarlota)](https://github.com/DeborahEvelyn)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-carlota/)](https://www.linkedin.com/in/deborah-evelyn-carlota-584366a1/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Ivan_Jr777)](https://t.me/@deborahevelynC)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/debyevelyn/)](https://www.instagram.com/debyevelyn/)
-
 
 ## Olá Devs! 
 
-👩‍💻 **Meu nome é Deborah, tenho 27 anos e estou me aventurando no mundo da tecnologia para mudar o mundo um pouquinho a cada dia.**
+👩‍💻 **Meu nome é Deborah, tenho 28 anos e estou me aventurando no mundo da tecnologia para mudar o mundo um pouquinho a cada dia.**
 
 🎯 **Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.**
 
@@ -43,6 +38,13 @@
 <code><img width="45" height="40" src="https://i.imgur.com/Nf9tdvp.jpg"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/4ukQmuf.jpgng"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/uW8XlJV.png"></code>
+
+# Minhas redes
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IvanCarlota)](https://github.com/DeborahEvelyn)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-carlota/)](https://www.linkedin.com/in/deborah-evelyn-carlota-584366a1/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Ivan_Jr777)](https://t.me/@deborahevelynC)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/debyevelyn/)](https://www.instagram.com/debyevelyn/)
 
 
 # Outros dados:
