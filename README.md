@@ -42,13 +42,12 @@
 
 
 
-# Minhas redes
+# Entre em contato comigo
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IvanCarlota)](https://github.com/DeborahEvelyn)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-carlota/)](https://www.linkedin.com/in/deborah-evelyn-carlota-584366a1/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Ivan_Jr777)](https://t.me/@deborahevelynC)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/debyevelyn/)](https://www.instagram.com/debyevelyn/)
-
 
 
 
