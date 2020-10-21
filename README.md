@@ -42,7 +42,7 @@
 
 
 
-# Entre em contato comigo
+# Minhas redes e contato
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/IvanCarlota)](https://github.com/DeborahEvelyn)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-carlota/)](https://www.linkedin.com/in/deborah-evelyn-carlota-584366a1/)
