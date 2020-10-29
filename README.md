@@ -36,9 +36,10 @@
 
 # Linguagens e ferramentas :octocat:
 
-<code><img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
 <code><img width="35" height="35" src="https://i.imgur.com/6GBUa7w.jpg"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/rYrptoI.jpg"></code>
+<code><img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img width="32" height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img width="32" height="32" src="https://i.imgur.com/yYp3kb9.png"></code>
 <code><img width="35" height="35" src="https://i.imgur.com/4ukQmuf.jpgng"></code>
