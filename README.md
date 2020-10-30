@@ -18,7 +18,7 @@
 
 **Front-end:**
 
-**HTML5, CSS3, JAVASCRIPT, Bootstrap, Nodejs, TypeScript e Angular.**
+**HTML5, CSS3, JAVASCRIPT, Bootstrap, Node.js, TypeScript e Angular.**
 
 **Back-end:**
 
