@@ -13,25 +13,6 @@
 
 🎯 **Bolsista no BootCamp de Desenvolvimento Web FullStack da Generation Brasil.**
 
-📚 **Aprendendo as seguintes tecnologias:**
-
-**Front-end:**
-
-**HTML5, CSS3, JAVASCRIPT, Bootstrap, Node.js, TypeScript e Angular.**
-
-**Back-end:**
-
-**Java e Framework Spring.**
-
-**Banco de dados:**
-
-**MySQL**
-
-**Metodologias ágeis:**
-
-**SCRUM**
-
-**KANBAN**
 
 # Linguagens e ferramentas :octocat:
 
