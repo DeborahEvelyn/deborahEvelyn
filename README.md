@@ -7,11 +7,11 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/debyevelyn/)](https://www.instagram.com/debyevelyn/)
 
 
-## Olá Devs! 
+# Olá Devs! 
 
-👩‍💻 **Meu nome é Deborah e estou me aventurando no mundo da tecnologia para mudar o mundo um pouquinho a cada dia.
+👩‍💻 ##Meu nome é Deborah e estou me aventurando no mundo da tecnologia para mudar o mundo um pouquinho a cada dia.
 
-🎯 **Bolsista no BootCamp de Desenvolvimento Web Full Stack da Generation Brasil.
+🎯 ##Bolsista no BootCamp de Desenvolvimento Web Full Stack da Generation Brasil.
 
 
 
