@@ -9,9 +9,9 @@
 
 # Olá Devs! 
 
-👩‍💻 ##Meu nome é Deborah e estou me aventurando no mundo da tecnologia para mudar o mundo um pouquinho a cada dia.
+👩‍💻 **Meu nome é Deborah e estou me aventurando no mundo da tecnologia para mudar o mundo um pouquinho a cada dia.**
 
-🎯 ##Bolsista no BootCamp de Desenvolvimento Web Full Stack da Generation Brasil.
+🎯 **Bolsista no BootCamp de Desenvolvimento Web Full Stack da Generation Brasil.**
 
 
 
