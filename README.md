@@ -9,9 +9,9 @@
 
 # Olá Devs! 
 
-👩‍💻 **Meu nome é Deborah e estou me aventurando no mundo da tecnologia para mudar o mundo um pouquinho a cada dia.**
+👩‍💻 **Meu nome é Deborah e estou me aventurando no mundo da tecnologia, para mudar o mundo um pouquinho a cada dia.**
 
-🎯 **Formada no BootCamp de Desenvolvimento Web Java da Generation Brasil.**
+🎯 **Formada no Bootcamp de Desenvolvimento Web Java da Generation Brasil.**
 
 
 
