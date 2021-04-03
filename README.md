@@ -11,7 +11,7 @@
 
 👩‍💻 **Meu nome é Deborah e tenho o objetivo de ser uma Desenvolvedora Back-end focada em soluções, e estou cursando Análise e Desenvolvimento de Sistemas, e estudando Java, Spring e Bancos de dados no tempo livre.**
 
-🎯 **Sou formada no Bootcamp de Desenvolvimento Web Java da Generation Brasil.**
+🎯 **E sou formada no Bootcamp de Desenvolvimento Web Java da Generation Brasil.**
 
 
 
