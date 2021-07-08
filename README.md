@@ -9,9 +9,12 @@
 
 # Olá Devs! 
 
-👩‍💻 **Meu nome é Deborah e tenho o objetivo de ser uma Desenvolvedora Back-end focada em soluções, e estou cursando Análise e Desenvolvimento de Sistemas, e estudando Java, Spring e Bancos de dados no tempo livre.**
+👩‍💻 **Meu nome é Deborah e no momento estou em transição de carreira para a área de tecnologia. Tenho experiência na área comercial, e procuro uma oportunidade em Análise de testes.
+Tenho formação no Bootcamp de Desenvolvimento Java Web da Generation Brasil, e estou cursando Análise e Desenvolvimento de Sistemas.
+Nas horas vagas eu gosto muito de cozinhar, ler, ver séries e filmes, viajar e ficar com meus gatinhos.**
 
-🎯 **E sou formada no Bootcamp de Desenvolvimento Web Java da Generation Brasil.**
+🎯 **Atualmente estou estudando Análise de testes na Mentorama.**
+
 
 
 
